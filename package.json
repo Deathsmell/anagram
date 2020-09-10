@@ -1,0 +1,12 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anagram.js",
+  "scripts": {
+    "start": "node anagram.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
