@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfa4747f-9164-44c4-b803-c7f59290c586" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/analysts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/analysts.js" afterDir="false" />
+    <list default="true" id="cfa4747f-9164-44c4-b803-c7f59290c586" name="Default Changelist" comment="add new task analysts.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/analysts.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/analysts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +73,16 @@
       <option name="presentableId" value="Default" />
       <updated>1599746639770</updated>
       <workItem from="1599746641031" duration="1641000" />
-      <workItem from="1599844097748" duration="4431000" />
+      <workItem from="1599844097748" duration="5375000" />
     </task>
+    <task id="LOCAL-00001" summary="add new task analysts.js">
+      <created>1599848844742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599848844742</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +99,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new task analysts.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new task analysts.js" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="835" y="458" width="249" height="197" key="Github.ShareDialog" timestamp="1599747652245">
       <screen x="0" y="30" width="1920" height="1050" />
@@ -102,9 +112,9 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="759" y="178" width="392" height="757" key="Github.UntrackedFilesDialog/0.30.1920.1050/1920.0.1920.1080@0.30.1920.1050" timestamp="1599747660669" />
-    <state x="555" y="287" width="800" height="539" key="Vcs.Push.Dialog.v2" timestamp="1599747679089">
+    <state x="555" y="287" width="800" height="539" key="Vcs.Push.Dialog.v2" timestamp="1599848847519">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="555" y="287" width="800" height="539" key="Vcs.Push.Dialog.v2/0.30.1920.1050/1920.0.1920.1080@0.30.1920.1050" timestamp="1599747679089" />
+    <state x="555" y="287" width="800" height="539" key="Vcs.Push.Dialog.v2/0.30.1920.1050/1920.0.1920.1080@0.30.1920.1050" timestamp="1599848847519" />
   </component>
 </project>

@@ -6,7 +6,12 @@ module.exports = function generator(func) {
     } else if ("function" !== typeof func) {
         console.log("Чел, то что ты мне дал не функция проверь себя")
     } else {
-        if (!func.toString().match(/console.log\(.+\)/)) {
+        let standard = /console.log\(.+\)/
+        let stupid = /console.log\(\)/
+        let s = func.toString();
+        if (s.match(stupid)) {
+            console.error("Я сказал, что должен быть log, но напиши хоть что то внутри него. А то иш какой умный");
+        } else if (!s.match(standard)){
             console.error("Функция должна содержать console.log() для вывода информации на экран");
         } else {
             setInterval(() => func(extracted()), 1000);
