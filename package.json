@@ -4,9 +4,13 @@
   "description": "",
   "main": "anagram.js",
   "scripts": {
-    "start": "node anagram.js"
+    "anagram": "node anagram.js",
+    "analysts": "node analysts.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.1.3"
+  }
 }
